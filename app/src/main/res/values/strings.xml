@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidPortfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="app1">Spotify Streamer</string>
+    <string name="app5title">Game Time Giving</string>
+    <string name="app4title">XYZ Reader</string>
+    <string name="app3title">Build It Bigger</string>
+    <string name="app2title">Library App</string>
+    <string name="app1title">Scores App</string>
+    <string name="app0title">SpotifyStreamer</string>
+</resources>
